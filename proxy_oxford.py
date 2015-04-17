@@ -14,8 +14,8 @@ import select
 import time
 
 
-DEBUG = True
-TEST = True
+DEBUG = False
+TEST = False
 BUFFER_SIZE = 4096
 OXFORD_IPS = ('192.168.137.222', 7020)
 
